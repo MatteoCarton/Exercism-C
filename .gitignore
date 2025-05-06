@@ -1,3 +1,6 @@
+# Ignorer le fichier .gitignore lui-même
+.gitignore
+
 # Ignorer le dossier .vscode
 .vscode/
 
