@@ -1,9 +1,8 @@
 # Exercism C Track - Journal de Bord 🚀
 
-[Liste des exercices C sur Exercism](https://exercism.org/tracks/c/exercises)
-
 ## Objectif 🎯
 Compléter les 82 exercices du track C d'Exercism en 2 mois (1h minimum par jour)
+[Liste des exercices C sur Exercism](https://exercism.org/tracks/c/exercises)
 
 
 ## Statistiques 📊
