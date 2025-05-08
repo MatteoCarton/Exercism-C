@@ -7,10 +7,10 @@ Compléter les 82 exercices du track C d'Exercism en 2 mois (1h minimum par jour
 
 ## Statistiques 📊
 ```
-📈 Progression globale : 17.1%
-⏱️ Temps total : 240 minutes (4h00)
-✅ Exercices complétés : 14/82
-📆 Nombre de jours : 2
+📈 Progression globale : 19.5%
+⏱️ Temps total : 300 minutes (5h00)
+✅ Exercices complétés : 16/82
+📆 Nombre de jours : 3
 📅 Date de début : 6 mai 2025
 ☠️ Deadline : 6 juillet 2025
 🎯 Objectif quotidien : minimum 1h/jour
@@ -18,15 +18,22 @@ Compléter les 82 exercices du track C d'Exercism en 2 mois (1h minimum par jour
 
 ## Progression 📝
 
+### 8 mai 2025 (60 minutes) ⭐
+✅ 3 exercices complétés (16/82) :
+1. Two Fer
+2. Raindrops
+3. Eliud's Eggs
+
+📊 Exercices restants : 66/82
+
 ### 7 mai 2025 (57 minutes) ⭐
-✅ 5 exercices complétés (14/82) :
+✅ 4 exercices complétés (13/82) :
 1. Hamming
 2. Space Age
 3. RNA Transcription
 4. Binary
-5. (Fixed RNA Transcription bug)
 
-📊 Exercices restants : 68/82
+📊 Exercices restants : 69/82
 
 ### 7 mai 2025 (91 minutes) ⭐
 ✅ 4 exercices complétés (9/82) :
