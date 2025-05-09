@@ -7,9 +7,9 @@ Compléter les 82 exercices du track C d'Exercism en 2 mois (1h minimum par jour
 
 ## Statistiques 📊
 ```
-📈 Progression globale : 22.0%
-⏱️ Temps total : 374 minutes (6h14)
-✅ Exercices complétés : 18/82
+📈 Progression globale : 24.4%
+⏱️ Temps total : 443 minutes (7h23)
+✅ Exercices complétés : 20/82
 📆 Nombre de jours : 4
 📅 Date de début : 6 mai 2025
 ☠️ Deadline : 6 juillet 2025
@@ -17,6 +17,13 @@ Compléter les 82 exercices du track C d'Exercism en 2 mois (1h minimum par jour
 ```
 
 ## Progression 📝
+
+### 9 mai 2025 (69 minutes) ⭐
+✅ 2 exercices complétés (20/82) :
+1. High Scores
+2. Pangram
+
+📊 Exercices restants : 62/82
 
 ### 9 mai 2025 (74 minutes) ⭐
 ✅ 2 exercices complétés (18/82) :
