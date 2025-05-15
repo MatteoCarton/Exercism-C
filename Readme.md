@@ -8,7 +8,7 @@ Compléter les 82 exercices du track C d'Exercism en 2 mois (1h minimum par jour
 ## Statistiques 📊
 ```
 📈 Progression globale : 37.8%
-⏱️ Temps total : 847 minutes (14h47)
+⏱️ Temps total : 847 minutes (14h07)
 ✅ Exercices complétés : 31/82
 📆 Nombre de jours : 10
 📅 Date de début : 6 mai 2025
