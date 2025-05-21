@@ -39,7 +39,6 @@ size_t rebase(int8_t digits[], int16_t input_base, int16_t output_base, size_t i
     }
 
     size_t output_length = 0;
-
     while (number_base10 > 0)
     {
         digits[output_length] = number_base10 % output_base;
@@ -47,6 +46,7 @@ size_t rebase(int8_t digits[], int16_t input_base, int16_t output_base, size_t i
         output_length++;
     }
 
+    // reverse
     for (size_t i = 0; i < output_length / 2; i++)
     {
         int8_t temp = digits[i];
