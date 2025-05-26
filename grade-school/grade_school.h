@@ -5,6 +5,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include <string.h>
+#include <stdlib.h>
 
 #define MAX_NAME_LENGTH 20
 #define MAX_STUDENTS 20
